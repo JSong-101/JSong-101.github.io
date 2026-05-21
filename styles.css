@@ -138,6 +138,19 @@ h1 {
   stroke-width: 1.8;
 }
 
+.icon-link .linkedin-icon {
+  fill: var(--ink);
+  stroke: none;
+}
+
+.icon-link .linkedin-icon path {
+  fill: none;
+  stroke: #ffffff;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.9;
+}
+
 .content {
   min-width: 0;
 }
